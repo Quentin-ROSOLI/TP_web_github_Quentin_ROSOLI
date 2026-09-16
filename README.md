@@ -21,3 +21,13 @@ Même s'il ne pouvait infecter que des machines VAX exécutant les systèmes 4 B
 La faille de sendmail nécessitait de patcher l'application pour supprimer l'option DEBUG, celle de finger pouvait être corrigée en le modifiant légèrement, ce qui rendait caduque l'attaque par dépassement de tampon.
 
 Certains systèmes infectés durent se déconnecter du réseau pour se mettre en quarantaine, d'autres se déconnectèrent pour éviter d'être infectés.
+
+
+
+## Conséquences
+
+>Il est souvent rapporté qu'environ six mille machines Unix furent infectées par le ver Morris. Le programmeur Paul Graham a affirmé : « J'étais là quand (ce chiffre) a été inventé, et ce qui suit fut la recette : quelqu'un a estimé qu'il y avait environ soixante mille ordinateurs connectés à l'Internet, et que le ver pourrait en avoir infecté dix pour cent. » Le Government Accountability Office, une agence du Congrès américain, a évalué les dommages à une somme de dix à cent millions de dollars américains. Robert Morris a subi un procès et fut condamné pour avoir violé le Computer Fraud and Abuse Act de 1986. Après être allé en appel, il reçut une sentence de trois ans de probation, quatre cents heures de travaux communautaires, et une amende de plus de dix mille dollars.
+
+Le Computer Emergency Response Team (CERT) fut créé en réaction au ver Morris.
+
+Le ver Morris a parfois été appelé le « Grand ver » (Great Worm) à cause de l'effet dévastateur qu'il avait eu sur l'Internet à cette époque, autant pour les pannes causées que pour l'impact psychologique qu'il a eu sur la perception qu'on avait de la sécurité et de la fiabilité de l'Internet. Ce nom dérive des Great Worms de Tolkien, nommés Scatha et Glaurung.
